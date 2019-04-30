@@ -38,7 +38,7 @@
   "dependencies": {
     "debug": "^4.1.0",
     "sha.js": "^2.4.9",
-    "ws": "^5.1.0"
+    "ws": "^7.0.0"
   },
   "devDependencies": {
     "@types/got": "^9.2.0",
